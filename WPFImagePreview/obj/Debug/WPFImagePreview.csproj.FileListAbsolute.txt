@@ -1,0 +1,14 @@
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\bin\Debug\WPFImagePreview.exe.config
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\bin\Debug\WPFImagePreview.exe
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\bin\Debug\WPFImagePreview.pdb
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\App.g.cs
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview_MarkupCompile.cache
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview_MarkupCompile.lref
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview.g.resources
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview.Properties.Resources.resources
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview.csproj.GenerateResource.cache
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview.csproj.CoreCompileInputs.cache
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview.exe
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\WPFImagePreview.pdb
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\ImagePreviewWindow.g.cs
+C:\Users\payme\source\repos\WPFImagePreview\WPFImagePreview\obj\Debug\ImagePreviewWindow.baml

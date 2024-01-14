@@ -1,0 +1,38 @@
+﻿<Window x:Class="WPFImagePreview.ImagePreviewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFImagePreview"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="Image Preview" Height="700" Width="500" Loaded="Window_Loaded">
+    <Grid>
+        <!--Image Preview Window-->
+        <!--Border-->
+        <Border Name="border" Margin="10">
+           <!--Image container-->
+            <Image x:Name="ImgPreview" Source="/Images/image.jpg" Stretch="Fill" MouseMove="ImgPreview_MouseMove"  MouseLeftButtonDown="ImgPreview_MouseLeftButtonDown"  MouseLeftButtonUp="ImgPreview_MouseLeftButtonUp"/>
+        
+        </Border>
+        
+        <!--button panel-->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="20">
+            <!--zoom in-->
+            <Button x:Name="BtnZoomIn" Margin="5" Width="60" Height="60" Click="BtnZoomIn_Click">
+                <Image Source="/Images/zoomin.png" Margin="5"/>
+            </Button>
+            <!--zoom out-->
+            <Button x:Name="BtnZoomOut" Margin="5" Width="60" Height="60" Click="BtnZoomOut_Click">
+                <Image Source="/Images/zoomout.png" Margin="5" />
+            </Button>
+            <!--rotate-->
+            <Button x:Name="BtnRotate" Margin="5" Width="60" Height="60" Click="BtnRotate_Click">
+                <Image Source="/Images/rotation.png" Margin="5"/>
+            </Button>
+
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>
